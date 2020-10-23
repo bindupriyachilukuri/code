@@ -1,0 +1,2 @@
+module sumseries2 {
+}
